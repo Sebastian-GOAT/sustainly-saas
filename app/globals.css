@@ -235,6 +235,11 @@
   --chart-4: hsl(280 65% 60%);
   --chart-5: hsl(340 75% 55%);
 
+  --sustainly-blue: #122E44;
+  --sustainly-purple: #D8AFFF;
+  --sustainly-dark-green: #0BAA69;
+  --sustainly-light-green: #55DF63;
+
   --sustainly-bg: var(--sustainly-blue);
   --sustainly-text: white;
 }
